@@ -1,6 +1,6 @@
 # DeCert: Ecossistema de Certificação e Governança Web3
 
-O **DeCert** é um sistema integrado de certificação imutável, economia de tokens e governança descentralizada (DAO). Este projeto foi desenvolvido como parte da residência tecnológica em Sistemas Embarcados, unindo a robustez da Blockchain Ethereum (Rede Sepolia) com a versatilidade da automação em Python.
+O **DeCert** é um sistema integrado de certificação imutável, economia de tokens e governança descentralizada (DAO). Este projeto foi desenvolvido como parte do curso de capacitação web 3.0 nível avançado em Smart Contracts, unindo a robustez da Blockchain Ethereum (Rede Sepolia) com a versatilidade da automação em Python.
 
 ## 🚀 Arquitetura do Sistema
 O projeto baseia-se em quatro pilares fundamentais de Smart Contracts:
